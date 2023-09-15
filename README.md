@@ -1,4 +1,4 @@
-# Web Scraping of Mars News and Mars Temperature Data
+# Web Scraping of Mars News and Mars Weather Data
 
 This project is on web scraping and data analysis. We were given two websites about Mars to "scrape" or extract information from using automated browsing with 
 Splinter and HTML. One of the websites we were given, had data on the weather in Mars from which we had to not only extract information from, but analyze the data 
